@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Medium_show-password-input display-password</name>
+   <tag></tag>
+   <elementGuidId>3e17cccf-7907-48c4-b93c-3d34d4469a6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='customer_login']/div[2]/form/p[3]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.show-password-input.display-password</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e2d0d40c-817f-4b6a-be27-180d874dc289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>show-password-input display-password</value>
+      <webElementGuid>e1cd6989-65cd-4ddc-973b-f8da5dcf3703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_login&quot;)/div[@class=&quot;u-column2 col-2&quot;]/form[@class=&quot;woocommerce-form woocommerce-form-register register&quot;]/p[@class=&quot;woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide&quot;]/span[@class=&quot;password-input&quot;]/span[@class=&quot;show-password-input display-password&quot;]</value>
+      <webElementGuid>84db48ce-7282-41ec-aaf1-1e38eb8343fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer_login']/div[2]/form/p[3]/span/span</value>
+      <webElementGuid>4c430ec9-8469-44f7-9dfd-32640f11cbc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/span/span</value>
+      <webElementGuid>348ffe2f-3677-4a79-95d7-5d56b64d487e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

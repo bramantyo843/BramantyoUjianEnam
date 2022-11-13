@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log out</name>
+   <tag></tag>
+   <elementGuidId>57c39b61-5cb9-440b-ae5e-35f2ac99275e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-8']/div/div/div/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e316fa33-b23f-460e-abd5-f83cac8b3320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/my-account/customer-logout/?_wpnonce=6c2d173015</value>
+      <webElementGuid>42eedeb8-1e0c-4e8c-abb3-371570abb06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log out</value>
+      <webElementGuid>bce8b0da-9ab5-45f7-819f-0d00d8388970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-8&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-MyAccount-content&quot;]/p[1]/a[1]</value>
+      <webElementGuid>c219297c-58a6-4375-a73a-0f66238d9e5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-8']/div/div/div/p/a</value>
+      <webElementGuid>635f5890-f131-43a2-867c-79dc18377bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log out')]</value>
+      <webElementGuid>2bd75d58-e75e-4742-b868-385c2c5a1052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sanji212'])[2]/following::a[1]</value>
+      <webElementGuid>12264799-e1a2-4e5b-9bb5-3ad9ac6d0244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sanji212'])[1]/following::a[1]</value>
+      <webElementGuid>a1cb05cd-4058-4e44-9bee-2eac10dcd1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='recent orders'])[1]/preceding::a[1]</value>
+      <webElementGuid>30c27d1b-e431-44b2-af78-bc5b7ec75440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='shipping and billing addresses'])[1]/preceding::a[2]</value>
+      <webElementGuid>4095f9e0-38b0-4629-93b0-aa096abc1441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log out']/parent::*</value>
+      <webElementGuid>e09ef7dc-d248-4b12-b78d-822e61649eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://shop.demoqa.com/my-account/customer-logout/?_wpnonce=6c2d173015')])[2]</value>
+      <webElementGuid>b5d1a46f-cf34-45cc-95dd-918a8ed4b17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>09d561fe-c178-41d8-ac32-2bfa2e160b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shop.demoqa.com/my-account/customer-logout/?_wpnonce=6c2d173015' and (text() = 'Log out' or . = 'Log out')]</value>
+      <webElementGuid>e8b84bc2-4e27-4612-a10c-3a4c65189ec1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
